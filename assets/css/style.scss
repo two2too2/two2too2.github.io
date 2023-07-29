@@ -1,4 +1,7 @@
 ---
 ---
-
+a {
+    color: grey !important;
+    text-decoration: none !important;  /* no underline */
+  }
 @import "jekyll-theme-primer";
