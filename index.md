@@ -67,87 +67,23 @@ TwoToo는 최소한의 목표 달성기간 22일을 기준으로 챌린지를 �
 *   짝꿍과 내가 모두 인증에 성공하면 서로의 인증에 칭찬을 남길 수 있어요.
 *   상대방의 인증에 칭찬을 남겨봐요 _ex) 오늘 하루도 고생했어ㅎㅎ_
 
-#### Header 4
+# STEP 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## 22일 챌린지를 완료해요
 
-##### Header 5
+*   22일간 진행한 짝궁과의 챌린지를, **다음날 완료하기 버튼**을 눌러 챌린지를 완료해요.
+*   80%이상 인증했다면 짝꽃 이주꽃 을 볼수 있답있니다.
+*   23일에 완료를 하면 챌린지 히스토리 페이지에서 조회를 할 수 있어요.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+![step4](./img/step4.png)
 
-###### Header 6
+# STEP 5
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+![step5](./img/step5.png)
 
-### There's a horizontal rule below this.
+## 히스토리에서 지금까지 진행했던 챌린지를 살펴봐요
 
-* * *
+*   왼쪽 **히스토리 탭**에서 지금까지 진행한 챌린지를 볼 수 있어요
+*   과거에 어떤 챌린지를 진행했고 어떤 마음으로 진행했는지 확인해봐요
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+![step6](./img/step6.png)
