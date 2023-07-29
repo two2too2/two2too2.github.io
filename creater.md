@@ -1,8 +1,5 @@
 ---
 title: Creaters
-layout: page
+layout: gird
 ---
 
-# TwoToo 만든이들 💖
-
-dlasjdlkajldaljdlasdlj

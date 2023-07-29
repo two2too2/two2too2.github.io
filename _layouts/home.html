@@ -1,4 +1,57 @@
 ---
 layout: default
 ---
-{{ content }}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Image Grid View</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      grid-gap: 10px;
+      max-width: 600px;
+      padding: 10px;
+    }
+
+    .grid-item {
+      width: 100%;
+      height: auto;
+      cursor: pointer;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="grid-container">
+    <div class="grid-item">
+      <a href="https://example.com/link1.html" target="_blank">
+        <img src="path/to/image1.jpg" alt="Image 1">
+      </a>
+    </div>
+    <div class="grid-item">
+      <a href="https://example.com/link2.html" target="_blank">
+        <img src="path/to/image2.jpg" alt="Image 2">
+      </a>
+    </div>
+    <div class="grid-item">
+      <a href="https://example.com/link3.html" target="_blank">
+        <img src="path/to/image3.jpg" alt="Image 3">
+      </a>
+    </div>
+    <!-- Add more grid items for images as needed -->
+  </div>
+</body>
+
+</html>
